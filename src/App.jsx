@@ -5,7 +5,7 @@ import Dashboard from './pages/Dashboard'
 import Alunos from './pages/Alunos'
 import Professores from './pages/Professores'
 import RotaProtegida from './Components/RotaProtegida'
-import Login from '.pages/Login'
+import Login from '../pages/Login'
 
 function App() {
   
