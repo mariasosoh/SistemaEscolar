@@ -6,3 +6,5 @@ function Professores() {
         {id:2, nome:'Maria Dulce Souza', email:'mariad@email.com', area:'Matematica'},
     ]
 }
+
+export default Professores
