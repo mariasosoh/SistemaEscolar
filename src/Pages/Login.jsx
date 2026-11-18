@@ -1,6 +1,8 @@
 import CampoTexto from "../Components/CampoTexto";
 import Botao from "../Components/Botao";
 import'./Login.css'
+import { supabase } from "../supabase";
+import { useState, useEffect } from 'react'
 
 function Login() {
     return (
