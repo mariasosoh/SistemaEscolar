@@ -1,0 +1,14 @@
+.Botao {
+    background-color: cornflowerblue;
+    color: bisque;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.Botao:hover {
+    background-color: cadetblue;
+}

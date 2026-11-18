@@ -1,0 +1,37 @@
+.pagina-login {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: dodgerblue;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.formulario-login {
+    background-color: ivory;
+    width: 100%;
+    max-width: 400px;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px #00000015;
+    box-sizing: border-box;
+}
+
+.formulario-login h1 {
+    color: black;
+    font-size: 24px;
+    text-align: center;
+}
+
+.formulario-login h2 {
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.formulario-login .botao {
+    width: 100%;
+    margin: 10px 0 0;
+}
