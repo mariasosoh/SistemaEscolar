@@ -1,5 +1,4 @@
-import { supabase } from "../supabase."
-import { useState, useEffect } from "react"
+
 import CampoTexto from "../Components/CampoTexto"
 import Botao from "../Components/Botao"
 import'./Login.css'

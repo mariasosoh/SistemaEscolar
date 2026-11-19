@@ -2,10 +2,10 @@ import { useState, useEffect } from 'react'
 import { supabase } from './supabase'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Dashboard from './pages/Dashboard'
-import Alunos from '../pages/Alunos'
+import Alunos from './pages/Alunos'
 import Professores from './pages/Professores'
 import RotaProtegida from './Components/RotaProtegida'
-import Login from '../pages/Login'
+import Login from './pages/Login'
 
 function App() {
   

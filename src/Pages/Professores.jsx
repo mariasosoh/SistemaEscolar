@@ -1,4 +1,3 @@
-import './Professores.css'
 
 function Professores() {
     const professores = [

@@ -1,6 +1,4 @@
 import { useState } from 'react'
-import reactLogo from '../assets'
-import viteLogo from '../../public/vite.svg'
 import './Dashboard.css'
 import Cabecalho from '../Components/Cabecalho'
 import MenuLateral from '../Components/MenuLateral'
